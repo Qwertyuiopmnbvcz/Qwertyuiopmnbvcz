@@ -51,5 +51,6 @@ You can click the Preview link to take a look at your changes.
 <th colspan="6">ᴛʜᴀɴᴋs ғᴏʀ ᴠɪsɪᴛɪɴɢ</th>
 
 </tr>
+<img scr="IMG_20230802_171055_981.jpg"> ᴄʟɪᴄᴋ ᴛʜɪs ᴘʜᴏᴛᴏ</img> 
 </body>
 </html>
