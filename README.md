@@ -31,13 +31,14 @@ You can click the Preview link to take a look at your changes.
 <!...row 3....>
 <tr>
 <th colspan="6"</th>
-<font size ="6" color="gold"><a href="https://youtube.com/@muzamilmeer?feature=shared "> sᴜʙsᴄʀɪʙᴇ ɴᴏᴡ </font>
-   <img scr="IMG_20230802_171055_981.jpg"> ᴄʟɪᴄᴋ ᴛʜɪs ᴘʜᴏᴛᴏ</img>
+<font size ="6" color="gold"><a href="https://youtube.com/@muzamilmeer?feature=shared "> sᴜʙsᴄʀɪʙᴇ ɴᴏᴡ </font></a>
 </tr>
+   <img scr="IMG_20230802_171055_981.jpg"> ᴄʟɪᴄᴋ ᴛʜɪs ᴘʜᴏᴛᴏ</img>
+
    
 <!...row 4....>
 <tr>
-<th></th>
+<th><img scr="IMG_20230802_171055_981.jpg"> ᴄʟɪᴄᴋ ᴛʜɪs ᴘʜᴏᴛᴏ</img> </th>
 <th></th>
 <th></th>
 <th></th>
