@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 <tr>
 <th colspan="6"</th>
 <font size ="6" color="gold"><a href="https://youtube.com/@muzamilmeer?feature=shared "> sᴜʙsᴄʀɪʙᴇ ɴᴏᴡ </font>
-   <img scr="IMG_20230802_171055_981.jpg" ᴄʟɪᴄᴋ ᴛʜɪs ᴘʜᴏᴛᴏ
+   <img scr="IMG_20230802_171055_981.jpg"> ᴄʟɪᴄᴋ ᴛʜɪs ᴘʜᴏᴛᴏ</img>
 </tr>
    
 <!...row 4....>
